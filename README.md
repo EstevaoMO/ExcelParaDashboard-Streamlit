@@ -1,2 +1,2 @@
 # ExcelParaDashboard-Streamlit
-Um programa que gera, a partir de uma planilha excel, um dashboard usando as bibliotecas pandas, streamlit e plotly-express
+Um programa em Python que gera, a partir de uma planilha excel, um dashboard interativo usando as bibliotecas pandas, streamlit e plotly-express
